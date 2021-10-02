@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Max_Of_Three_Var_UC5/1.0.0": {
+        "runtime": {
+          "Max_Of_Three_Var_UC5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Max_Of_Three_Var_UC5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

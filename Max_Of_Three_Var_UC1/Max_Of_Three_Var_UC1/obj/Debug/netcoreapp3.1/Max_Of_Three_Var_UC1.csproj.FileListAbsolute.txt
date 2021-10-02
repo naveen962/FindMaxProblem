@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\obj\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\obj\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\obj\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\obj\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\obj\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\bin\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.exe
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\bin\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.deps.json
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\bin\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.runtimeconfig.json
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\bin\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\bin\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.dll
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\bin\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.pdb
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\obj\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.dll
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\obj\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.pdb
+C:\Users\INDIA\source\repos\Max_Of_Three_Var_UC1\Max_Of_Three_Var_UC1\obj\Debug\netcoreapp3.1\Max_Of_Three_Var_UC1.genruntimeconfig.cache

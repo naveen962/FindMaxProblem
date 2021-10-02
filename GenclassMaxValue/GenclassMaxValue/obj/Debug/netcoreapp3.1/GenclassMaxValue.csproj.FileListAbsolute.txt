@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\bin\Debug\netcoreapp3.1\GenclassMaxValue.exe
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\bin\Debug\netcoreapp3.1\GenclassMaxValue.deps.json
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\bin\Debug\netcoreapp3.1\GenclassMaxValue.runtimeconfig.json
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\bin\Debug\netcoreapp3.1\GenclassMaxValue.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\bin\Debug\netcoreapp3.1\GenclassMaxValue.dll
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\bin\Debug\netcoreapp3.1\GenclassMaxValue.pdb
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\obj\Debug\netcoreapp3.1\GenclassMaxValue.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\obj\Debug\netcoreapp3.1\GenclassMaxValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\obj\Debug\netcoreapp3.1\GenclassMaxValue.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\obj\Debug\netcoreapp3.1\GenclassMaxValue.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\obj\Debug\netcoreapp3.1\GenclassMaxValue.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\obj\Debug\netcoreapp3.1\GenclassMaxValue.dll
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\obj\Debug\netcoreapp3.1\GenclassMaxValue.pdb
+C:\Users\INDIA\source\repos\GenclassMaxValue\GenclassMaxValue\obj\Debug\netcoreapp3.1\GenclassMaxValue.genruntimeconfig.cache

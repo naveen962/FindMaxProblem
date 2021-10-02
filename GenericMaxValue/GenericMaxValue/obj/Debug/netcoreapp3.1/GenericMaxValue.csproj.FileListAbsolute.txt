@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\obj\Debug\netcoreapp3.1\GenericMaxValue.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\obj\Debug\netcoreapp3.1\GenericMaxValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\obj\Debug\netcoreapp3.1\GenericMaxValue.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\obj\Debug\netcoreapp3.1\GenericMaxValue.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\obj\Debug\netcoreapp3.1\GenericMaxValue.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\bin\Debug\netcoreapp3.1\GenericMaxValue.exe
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\bin\Debug\netcoreapp3.1\GenericMaxValue.deps.json
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\bin\Debug\netcoreapp3.1\GenericMaxValue.runtimeconfig.json
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\bin\Debug\netcoreapp3.1\GenericMaxValue.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\bin\Debug\netcoreapp3.1\GenericMaxValue.dll
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\bin\Debug\netcoreapp3.1\GenericMaxValue.pdb
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\obj\Debug\netcoreapp3.1\GenericMaxValue.dll
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\obj\Debug\netcoreapp3.1\GenericMaxValue.pdb
+C:\Users\INDIA\source\repos\GenericMaxValue\GenericMaxValue\obj\Debug\netcoreapp3.1\GenericMaxValue.genruntimeconfig.cache
